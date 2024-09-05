@@ -1,24 +1,3 @@
-// {
-//   "compileOnSave": true,
-//   "include": [
-//     "./packages/**/*"
-//   ],
-//   "compilerOptions": {
-//     "noUnusedLocals": false,
-//     "noUnusedParameters": false,
-//     "target": "es2016",
-//     "esModuleInterop": true,
-//     "forceConsistentCasingInFileNames": true,
-//     "strict": true,
-//     "skipLibCheck": true,
-//     "baseUrl": "./packages",
-//     "paths": {
-//       "hostConfig": [
-//         "./react-dom/src/hostConfig.ts"
-//       ]
-//     }
-//   }
-// }
 {
   "compileOnSave": true,
   "include": [
